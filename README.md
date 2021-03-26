@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-![screenshot]()
+![screenshot](https://github.com/thesimranjeet/ecommerce_mern/blob/main/uploads/Screenshot.png)
 
 ## Features
 
